@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there ![image](https://github.com/user-attachments/assets/476bfbaf-bcd7-4675-aae0-8fbb42654915)
+
 
 <!--
 **Brain-Wash-Josh/Brain-Wash-Josh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
