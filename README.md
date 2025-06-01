@@ -1,8 +1,10 @@
 ## Hello there <img src="https://github.com/user-attachments/assets/476bfbaf-bcd7-4675-aae0-8fbb42654915" width=100> 👋
 
 ```C#
-class SoftwareEngineer : Developer {
-    private static void Me() {
+class SoftwareEngineer : Developer
+{
+    private static void Me()
+    {
       string name = "Joshua P";
       
     }
