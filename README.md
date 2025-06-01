@@ -10,20 +10,20 @@ public class SoftwareEngineer : Developer
         public string[] qualifications { get; set; }    
 }
 
-class JoshuaP
+class Program
 {
-        public static void main(String args[])
+         static void Main(String args[])
         {
-                SoftwareEngineering SE = new SoftwareEngineering();
-
-                SE.code = ["C#", ".NET", "Java", "Python", "HTML", "CSS", "JavaScript"];
-                SE.tools = ["React", "Axios", "AspNetCore", "And some other stuff I can't remember"];
-                SE.learning =  ["C", "C++", "Embedded Systems", "Godot"];
-                SE.workingOn = "Digital and Technology Solutions Professional in Software Engineering"; // Finishing this year
-                SE.qualifications =  ["Software Engineering", "Electrical Electronic Engineering"];       
+                var joshuaP = new SoftwareEngineer
+                {
+                        Code = new[] { "C#", ".NET", "Java", "Python", "HTML", "CSS", "JavaScript" },
+                        Tools = new[] { "React", "Axios", "ASP.NET Core", "And some other stuff I can't remember" },
+                        Learning = new[] { "C", "C++", "Embedded Systems", "Godot" },
+                        WorkingOn = "Digital and Technology Solutions Professional in Software Engineering", // Finishing this year
+                        Qualifications = new[] { "Software Engineering", "Electrical Electronic Engineering" }                
+                };
         }
    
-
 }
 
 ```
