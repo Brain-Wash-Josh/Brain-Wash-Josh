@@ -1,7 +1,7 @@
 ## Hello there <img src="https://github.com/user-attachments/assets/476bfbaf-bcd7-4675-aae0-8fbb42654915" width=100> 👋
 
 ```C#
-Class SoftwareEngineer : Developer {
+class SoftwareEngineer : Developer {
     private static void Me() {
       String name = "Joshua P"
       
