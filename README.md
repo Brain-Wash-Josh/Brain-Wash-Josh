@@ -1,14 +1,25 @@
 ## Hello there <img src="https://github.com/user-attachments/assets/476bfbaf-bcd7-4675-aae0-8fbb42654915" width=100> 👋
 
 ```C#
-class SoftwareEngineer : Developer
+public class SoftwareEngineer : Developer
 {
-    private static void Me()
-    {
-      string name = "Joshua P";
-      
-    }
-  
+        public string[] code { get; set; }
+        public string[] tools { get; set; } 
+        public string[] learning { get; set; }
+        public string workingOn { get; set; }
+        public string[] qualifications { get; set; }    
+}
+
+class JoshuaP
+{
+    SoftwareEngineering SE = new SoftwareEngineering();
+
+    SE.code = ["C#", ".NET", "Java", "Python", "HTML", "CSS", "JavaScript"];
+    SE.tools = ["React", "Axios", "AspNetCore", "And some other stuff I can't remember"];
+    SE.learning =  ["C", "C++", "Embedded Systems", "Godot"];
+    SE. workingOn = "Digital and Technology Solutions Professional in Software Engineering"; // Finishing this year
+    SE.qualifications =  ["Software Engineering", "Electrical Electronic Engineering"]; 
+
 }
 
 ```
