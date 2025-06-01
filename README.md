@@ -17,7 +17,7 @@ class JoshuaP
     SE.code = ["C#", ".NET", "Java", "Python", "HTML", "CSS", "JavaScript"];
     SE.tools = ["React", "Axios", "AspNetCore", "And some other stuff I can't remember"];
     SE.learning =  ["C", "C++", "Embedded Systems", "Godot"];
-    SE. workingOn = "Digital and Technology Solutions Professional in Software Engineering"; // Finishing this year
+    SE.workingOn = "Digital and Technology Solutions Professional in Software Engineering"; // Finishing this year
     SE.qualifications =  ["Software Engineering", "Electrical Electronic Engineering"]; 
 
 }
