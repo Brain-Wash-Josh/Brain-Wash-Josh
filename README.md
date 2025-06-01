@@ -3,7 +3,7 @@
 ```C#
 class SoftwareEngineer : Developer {
     private static void Me() {
-      String name = "Joshua P"
+      string name = "Joshua P";
       
     }
   
