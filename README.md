@@ -1,6 +1,7 @@
 ## Hello there <img src="https://github.com/user-attachments/assets/476bfbaf-bcd7-4675-aae0-8fbb42654915" width=100> 👋
 
 '''
+
 Class SoftwareEngineer : Developer {
     private static void Me() {
       String name = "Joshua P"
@@ -8,6 +9,7 @@ Class SoftwareEngineer : Developer {
     }
   
 }
+
 '''
 
 <!--
