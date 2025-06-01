@@ -1,4 +1,4 @@
-## Hello there <img="https://github.com/user-attachments/assets/476bfbaf-bcd7-4675-aae0-8fbb42654915" width=100/>
+## Hello there <img="https://github.com/user-attachments/assets/476bfbaf-bcd7-4675-aae0-8fbb42654915" width=100>
 
 
 <!--
