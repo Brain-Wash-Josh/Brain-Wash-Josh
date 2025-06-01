@@ -1,4 +1,4 @@
-## Hello there ![image](https://github.com/user-attachments/assets/476bfbaf-bcd7-4675-aae0-8fbb42654915)
+## Hello there ![image](https://github.com/user-attachments/assets/476bfbaf-bcd7-4675-aae0-8fbb42654915 = 100x100)
 
 
 <!--
